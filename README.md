@@ -100,4 +100,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## **Contact Information**
 
-Created by Mahan Veisi - [LinkedIn](https://www.linkedin.com/in/sai-goutham-reddy-1a7809255//) - [GitHub](https://github.com/Goutham7675)
+Created by S. S. Goutham Reddy - [LinkedIn](https://www.linkedin.com/in/sai-goutham-reddy-1a7809255//) - [GitHub](https://github.com/Goutham7675)
